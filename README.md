@@ -1,4 +1,4 @@
 # apnacollge
 This my repository.
 <br>
-Author - Sanket Jadhav
+Author - Sanket (Apna college)
